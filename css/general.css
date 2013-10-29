@@ -27,6 +27,7 @@ nav {
 	height: 200px;
 	box-shadow: 0px 1px 10px #5E5E5E;
 	position: fixed;
+	float: left;
 	text-align: center;
 }
 
