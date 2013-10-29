@@ -74,7 +74,7 @@ a:active {text-decoration:none; color: #654A35;}
 		font-size:22px;
 	}
 	
-	header .logo h1{
+	.logo {
 		float: left;
 		margin-bottom: 30px;
 	}
@@ -126,6 +126,7 @@ p {
 .flex-img {
 	display: block;
 	width: 100%;
+	padding-top: 200px;
 }
 
 .grid {
