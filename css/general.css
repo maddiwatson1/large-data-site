@@ -130,6 +130,21 @@ a:active {text-decoration:none; color: #654A35;}
 	}
 }
 
+@media only screen and (min-width: 125em) {
+	
+	html {
+		margin: 0 250px 0 250px;
+	}
+	
+	.logo {
+		padding-left: 256px;
+	}
+	
+	nav ul {
+		padding-right: 240px;
+	}
+}
+
 /*Body*/
 
 h2 {
@@ -234,5 +249,3 @@ p {
 	}
 
 }
-
-
