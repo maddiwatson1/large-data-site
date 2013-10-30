@@ -213,7 +213,7 @@ p {
 @media only screen and (min-width: 40em) {
 	
 	.flex-img {
-		padding-top: 100px;
+		padding-top: 110px;
 	}
 }
 
@@ -242,10 +242,4 @@ p {
 	.flex-img {
 		padding-top: 110px;
 	}
-	
-	.unit-spacer-3 {
-		padding-top: 120px;
-		padding-left: 20px;
-	}
-
 }
