@@ -190,10 +190,11 @@ p {
 
 @media only screen and (min-width: 38.0625) {
 	
-	.unit-spacer-3 {
+	.unit unit-s-1 unit-m-1-2 unit-spacer-3 {
 		padding-top: 150px;
 		width: 60%;
 	}
+}
 	
 @media only screen and (min-width: 40em) {
 	
