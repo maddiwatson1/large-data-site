@@ -108,6 +108,15 @@ a:active {text-decoration:none; color: #654A35;}
 	html {
 		margin: 0 85px 0 85px;
 	}
+	
+	nav ul {
+		margin-top: 45px;
+	}
+	
+	.logo {
+		padding-left: 95px;
+		padding-top: 35px;
+	}
 }
 
 @media only screen and (min-width: 84.375em) {
