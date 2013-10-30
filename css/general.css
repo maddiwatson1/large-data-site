@@ -80,8 +80,8 @@ a:active {text-decoration:none; color: #654A35;}
 	
 	.logo {
 		float: left;
-		padding-left: 15px
-		margin-bottom: 30px;
+		padding-left: 15px;
+		padding-top: 30px;
 	}
 	
 	nav {
