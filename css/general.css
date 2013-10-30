@@ -233,9 +233,9 @@ p {
 		padding-top: 110px;
 	}
 	
-	.unit-spacer-3 h1 {
-		padding-left: 20px;
+	.unit-spacer-3 {
 		padding-top: 120px;
+		padding-left: 20px;
 	}
 
 }
