@@ -120,8 +120,15 @@ a:active {text-decoration:none; color: #654A35;}
 	html {
 		margin: 0 150px 0 150px;
 	}
+	
+	.logo {
+		padding-left: 155px;
+	}
+	
+	nav ul {
+		padding-right: 140;
+	}
 }
-
 
 /*Body*/
 
@@ -188,14 +195,6 @@ p {
 
 }
 
-@media only screen and (min-width: 38.0625) {
-	
-	.unit-spacer-3 {
-		padding-top: 150px;
-		width: 60%;
-	}
-}
-	
 @media only screen and (min-width: 40em) {
 	
 	.flex-img {
@@ -235,3 +234,5 @@ p {
 	}
 
 }
+
+
