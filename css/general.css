@@ -80,7 +80,12 @@ a:active {text-decoration:none; color: #654A35;}
 	
 	.logo {
 		float: left;
+		padding-left: 15px
 		margin-bottom: 30px;
+	}
+	
+	nav {
+		height: 130px;
 	}
 	
 	nav ul {
@@ -149,13 +154,17 @@ p {
 @media only screen and (min-width: 37.9375em) {
 	
 	.unit-spacer-2 {
-		margin-right: 10px;
 		margin-top: 30px;
 	}
 	
 	.unit-s-1 {
 		display: block;
 	}
+	
+	.flex-img {
+		padding-top: 140px;
+	}
+
 }
 
 @media only screen and (max-width: 38em) {
@@ -165,6 +174,13 @@ p {
 		width: 100%;
 	}
 	
+}
+
+@media only screen and (min-width: 40em) {
+	
+	.flex-img {
+		padding-top: 95px;
+	}
 }
 
 @media only screen and (min-width: 38em) and (max-width: 60em) {
