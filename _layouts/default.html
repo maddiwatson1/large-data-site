@@ -26,8 +26,16 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="description" content="Everything you need to know about skateboarding, from past to present.">
 </head>
+<body id="top">
 
-<nav>
+<ul class="skiplinks">
+	<li><a href="../about.html">Skip to Primary Content</a></li>
+	<li><a href="../history.html">Skip to Secondary Content</a></li>
+	<li><a href="#navigation">Skip to Navigation</a></li>
+</ul>
+
+
+<nav role="navigation" id="navigation">
 	<div class="logo">
 		<a href="index.html" rel="home"><img src="images/shred-logo.png" alt="shred" width="159" height="60"></a>
 	</div>       		
@@ -37,6 +45,12 @@
 		<li><a href="">Culture</a></li>
 	</ul>
 </nav>	
+
+<footer>
+<!--Content Infor defines things like copyright, privacy, terms of use -->
+	<p role="contentinfo">© SHRED Skateboarding</p>
+    <a href="#top">Top</a>
+</footer>
 
 {{content}}
 
