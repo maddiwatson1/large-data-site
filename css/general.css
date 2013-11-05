@@ -173,7 +173,7 @@ p {
 }
 
 aside {
-	float: right;
+	text-align: center;
 }
 
 .grid {
