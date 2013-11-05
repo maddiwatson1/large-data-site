@@ -172,6 +172,10 @@ p {
 	padding-top: 165px;
 }
 
+aside {
+	float: right;
+}
+
 .grid {
 	overflow: hidden;
 }
