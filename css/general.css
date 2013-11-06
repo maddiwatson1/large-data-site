@@ -207,10 +207,6 @@ aside .flex-img {
 		padding-top: 140px;
 	}
 
-	aside {
-		float: right;
-	}
-
 }
 
 @media only screen and (min-width: 38em) {
