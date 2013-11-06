@@ -176,8 +176,8 @@ aside {
 	text-align: center;
 }
 
-.flex-img aside {
-	padding-top: 10px;
+aside .flex-img {
+	padding-top: 20px;
 }
 
 .grid {
